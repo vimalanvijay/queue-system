@@ -1,0 +1,25 @@
+{
+  "short_name": "Queue App",
+  "name": "Virtual Queue App",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "sizes": "192x192"
+    },
+    {
+      "src": "",
+      "type": "",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
