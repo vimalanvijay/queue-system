@@ -2,7 +2,9 @@ import React from "react"
 
 function Header(){
     return(
-        <header>Hlelo</header>
+        <div className="navbar">
+            Q-Online
+        </div>
     )
 }
 
