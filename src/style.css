@@ -1,10 +1,11 @@
 body{
     margin: 0px;
-    background-color: rgb(36, 32, 32);
+    background-color: rgb(46, 44, 44);
 }
 
 .cardstyle{
     width: 50%;
+    cursor: pointer;
     margin: 0 auto;
     margin-top: 20px;
     background-color: rgb(243, 243, 243);
@@ -14,13 +15,13 @@ body{
 }
 
 .title{
-    font-size:7vw;
+    font-size:6vw;
     text-align: center;
     padding: 10px;
 }
 
 .value{
-    font-size: 6vw;
+    font-size: 8vw;
     text-align: center;
 }
 
